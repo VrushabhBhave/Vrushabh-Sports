@@ -1,0 +1,6 @@
+Equipments:-
+1.Bat
+2.Ball
+3.Pads
+4.Stumps
+5.Helmet
